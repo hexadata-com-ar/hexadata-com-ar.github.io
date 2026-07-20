@@ -1,0 +1,10 @@
+services:
+  hexadata-website:
+    image: ghcr.io/getzola/zola:v0.22.1
+    container_name: hexadata-website
+    working_dir: /site
+    command: ["serve", "--interface", "0.0.0.0"]
+    ports:
+      - "1111:1111"
+    volumes:
+      - ./site:/site

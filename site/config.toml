@@ -1,0 +1,62 @@
+# The URL the site will be built for
+base_url = "https://hexadata-com-ar.github.io"
+
+title = "Hexadata"
+author = "Victor Villarreal"
+description = "Somos Hexadata, un desarrollo educativo-tecnológico jóven."
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "vonge"
+
+taxonomies = [
+    { name = "tags", feed = true},
+]
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+logo_image = ""
+twitter_handle = "MefhigosetH"
+
+navigation = [
+    { url = "$BASE_URL", title = "Inicio" },
+    { url = "$BASE_URL/projects", title = "Productos" },
+]
+
+social_icons = [
+    { url = "https://github.com/hexadata-com-ar", icon = "GitHub" },
+    { url = "$BASE_URL/atom.xml", icon = "RSS" },
+]
+
+[[extra.content_blocks]]
+block = "hero"
+title = "Soluciones tecnológicas"
+description_html = "Somos un emprendimiento argentino joven dedicado a desarrollar, fabricar y comercializar soluciones tecnológicas innovadoras y accesibles, principalmente dirigidas al ámbito educativo."
+image = "/images/pexels-jakub-pabis.jpg"
+image_alt = "Primer plano de ircuitos integrados en una PCB. Autor: Jakub Pabis"
+cta_button_link = "https://www.linkedin.com/in/vvillarreal1983/"
+cta_button = "Linkedin"
+works_button_link = "#projects"
+works_button = "Ver productos"
+
+[[extra.content_blocks]]
+block = "projects-section"
+title = "Nuestros productos"
+description_html = """
+    <p>Una selección de nuestros desarrollos más recientes, soluciones de software e integraciones técnicas diseñadas para resolver problemas reales con código eficiente.</p>"""
+link_url = "/projects"
+show_projects = true
+
+[extra.footer]
+menu = [
+    { url = "$BASE_URL", title = "Inicio" },
+    { url = "$BASE_URL/projects/", title = "Productos" },
+]
