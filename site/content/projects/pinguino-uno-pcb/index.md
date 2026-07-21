@@ -1,5 +1,5 @@
 +++
-date = "2021-01-09 05:20:35"
+date = "2021-04-30 05:20:35"
 draft = false
 title = "Pinguino Uno PCB"
 description = "Placa entrenadora / educativa para PIC18F2550"
