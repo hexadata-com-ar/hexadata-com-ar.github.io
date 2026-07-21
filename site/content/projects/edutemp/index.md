@@ -8,7 +8,7 @@ description = "Sensor de temperatura educativo inteligente Wi-Fi"
 tags = ["edutemp", "sensor-temperatura"]
 
 [extra]
-image = 'projects/edutemp/ecommerce_up_final.jpg'
+image = 'projects/edutemp/ecommerce_up.png'
 +++
 
 Hexadata EduTemp es un termómetro inteligente especialmente pensado para el ámbito educativo. El rango de operación del dispositivo está comprendido entre los -55 y los 120 grados Celsius. No necesita conexión a Internet para funcionar, no es necesario instalar ninguna aplicación adicional en el celular y lo pueden usar varias personas al mismo tiempo. La documentación (impresa y digital) e interfaz gráfica del dispositivo están totalmente en Español.

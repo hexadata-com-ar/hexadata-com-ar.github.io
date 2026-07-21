@@ -38,14 +38,14 @@ social_icons = [
 
 [[extra.content_blocks]]
 block = "hero"
-title = "Soluciones tecnológicas"
-description_html = "Somos un emprendimiento argentino joven dedicado a desarrollar, fabricar y comercializar soluciones tecnológicas innovadoras y accesibles, principalmente dirigidas al ámbito educativo."
-image = "/images/pexels-jakub-pabis.jpg"
+title = "Termómetro Edutemp Wi-Fi"
+description_html = "Sensor de temperatura inteligente especialmente pensado para el ámbito educativo. Sonda sumergible. No requiere Internet. Permite hasta 8 usuarios conectados. Graficas en tiempo real. Fórmulas físicas en pantalla."
+image = "projects/edutemp/ecommerce_up.png"
 image_alt = "Primer plano de circuitos integrados en una PCB. Autor: Jakub Pabis"
-cta_button_link = "https://www.linkedin.com/in/vvillarreal1983/"
-cta_button = "Linkedin"
+cta_button_link = "/projects/edutemp/"
+cta_button = "+ Info"
 works_button_link = "#projects"
-works_button = "Ver productos"
+works_button = "Mas productos"
 
 [[extra.content_blocks]]
 block = "projects-section"

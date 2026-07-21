@@ -8,7 +8,7 @@ description = "Placa entrenadora / educativa para PIC18F2550"
 tags = ["pinguino", "open-hardware"]
 
 [extra]
-image = 'projects/pinguino-uno-pcb/ecommerce-pinguino-front.jpg'
+image = 'projects/pinguino-uno-pcb/ecommerce-pinguino-front.png'
 +++
 
 [Comprar en MercadoLibre](https://articulo.mercadolibre.com.ar/MLA-1493595856-pinguino-uno-placa-entrenadora-pic-_JM)
@@ -22,6 +22,8 @@ Se compone de pocos componentes electrónicos y éstos no son superficiales (no 
 ## Es OpenHardware
 
 Tanto su documentación, diagrama esquemático, diseño PCB y sus archivos Gerber, son libres y abiertos. Es decir que el usuario cuenta con toda la información necesaria para estudiar, comprender, armar y hasta modificar la placa de forma totalmente autónoma. Sin depender de su fabricante.
+
+![Pinguino Uno PCB back](ecommerce-pinguino-back.jpg)
 
 ## Características técnicas
 
