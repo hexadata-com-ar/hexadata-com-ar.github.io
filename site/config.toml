@@ -25,6 +25,7 @@ theme = "catppuccin-mocha"
 [extra]
 logo_image = ""
 twitter_handle = "MefhigosetH"
+social_media_share_image = "/images/social-media-share-image.png"
 
 navigation = [
     { url = "$BASE_URL", title = "Inicio" },
