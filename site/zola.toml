@@ -40,7 +40,7 @@ social_icons = [
 [[extra.content_blocks]]
 block = "hero"
 title = "Producto destacado"
-description_html = "**Edutemp**: Sensor de temperatura inteligente especialmente pensado para el ámbito educativo. Sonda sumergible. No requiere Internet. Permite hasta 8 usuarios conectados. Graficas en tiempo real. Fórmulas físicas en pantalla."
+description_html = "<b>Edutemp</b>: Sensor de temperatura inteligente especialmente pensado para el ámbito educativo. Sonda sumergible. No requiere Internet. Permite hasta 8 usuarios conectados via Wi-Fi. Graficas en tiempo real. Fórmulas físicas en pantalla."
 image = "projects/edutemp/ecommerce_up.png"
 image_alt = "Primer plano de circuitos integrados en una PCB. Autor: Jakub Pabis"
 cta_button_link = "/projects/edutemp/"
